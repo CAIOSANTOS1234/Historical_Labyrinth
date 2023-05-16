@@ -1,0 +1,3 @@
+g++ main.cpp menu.cpp -o labirinto_historico
+
+./labirinto_historico
