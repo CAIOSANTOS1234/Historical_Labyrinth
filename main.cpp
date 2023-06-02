@@ -2,12 +2,14 @@
 #include <stdlib.h>
 #include <locale.h>
 
-void menu();
+bool menu();
 
 int main()
 {
     setlocale(LC_ALL,"");
 
-    menu();
+    do
+    {   
+    } while (menu() == true);
 
 }

@@ -1,3 +1,3 @@
-g++ main.cpp menu.cpp -o labirinto_historico
+g++ main.cpp menu.cpp game.cpp Espanha.cpp Inglaterra.cpp Portugal.cpp -o labirinto_historico
 
 ./labirinto_historico
