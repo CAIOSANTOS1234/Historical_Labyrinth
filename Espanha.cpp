@@ -9,7 +9,7 @@ void espanha()
     {
         system("cls");
 
-        printf("Obijetivo: Cegar no descobrimento do brasil\n\n");
+        printf("Objetivo: Chegar no descobrimento do brasil\n\n");
 
         printf("1 - 1492  \n2 - 1504  \n3 - 1494 \n");
         printf("Escolha seu caminho: ");
