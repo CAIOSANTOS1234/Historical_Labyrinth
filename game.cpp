@@ -13,7 +13,7 @@ void game()
     {
         system("cls");
 
-        printf("Obijetivo: Cegar no descobrimento do brasil\n\n");
+        printf("Objetivo: Chegar no descobrimento do brasil\n\n");
 
         printf("1 - Portugal \n2 - Inglaterra \n3 - Espanha\n");
         printf("Escolha seu caminho: ");
@@ -34,7 +34,7 @@ void game()
             break;
         
         default:
-            printf("Opicao errada");
+            printf("Opcao errada");
             system("pause");
             i--;
             break;

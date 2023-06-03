@@ -9,7 +9,7 @@ void inglaterra()
     {
         system("cls");
 
-        printf("Obijetivo: Cegar no descobrimento do brasil\n\n");
+        printf("Objetivo: Chegar no descobrimento do brasil\n\n");
 
         printf("1 - Entre 1497 e 1498 \n2 - entre 1584 e 1587 \n3 - 1485 \n");
         printf("Escolha seu caminho: ");
@@ -30,7 +30,7 @@ void inglaterra()
             break;
         
         default:
-            printf("Opicao errada");
+            printf("Opcao errada");
             system("pause");
             i--;
             break;

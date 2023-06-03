@@ -10,7 +10,7 @@ void portugal()
     {
         system("cls");
 
-        printf("Obijetivo: Cegar no descobrimento do brasil\n\n");
+        printf("Objetivo: Chegar no descobrimento do brasil\n\n");
 
         printf("1 - 1500  \n2 - 1530  \n3 - 1488 \n");
         printf("Escolha seu caminho: ");

@@ -30,7 +30,7 @@ void espanha()
             break;
         
         default:
-            printf("Opicao errada\n");
+            printf("Opcao errada\n");
             system("pause");
             i--;
             break;
